@@ -1,2 +1,2 @@
 # teste
-Reposistorio de teste para adicionar algums projetos e codigos 
+Reposistorio de teste para adicionar algums projetos e codigos...
